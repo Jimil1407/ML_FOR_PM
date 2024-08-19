@@ -1,4 +1,4 @@
-# 📧 Ham-Spam Detection Model
+# 📧 Spam Detection Model
 
 Welcome to the **Ham-Spam Detection Model**! This project implements a spam detection system using the Naive Bayes algorithm to classify email messages as either 'ham' (not spam) or 'spam' (unwanted). It provides an efficient and accurate method for filtering out unwanted messages from your inbox.
 
@@ -33,7 +33,7 @@ The Ham-Spam Detection Model leverages the Naive Bayes algorithm, a probabilisti
 2. **Run the notebook:**
    - it will generate a pickle file, use that in the streamlit app.
    ```bash
-    streamlit run app.py
+    streamlit run host_website.py
 
 ## 📝 Requirements
 
